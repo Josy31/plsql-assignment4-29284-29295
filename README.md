@@ -1,3 +1,6 @@
+NAMES: INGABIRE TETA FIDELINE 29284
+       AKIMANIZANYE KAYONDO JOSIANE 29295
+  
 Implementation Notes
 
 Student Registration and Grading System
